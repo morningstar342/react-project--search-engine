@@ -8,7 +8,7 @@ const App = () => {
   const [darkTheme, setDarkTheme] = useState(false);
   return (
     <div className={darkTheme ? 'dark' : ''}>
-      <div className="bg-gray-100">
+      <div className="bg-gray-00">
           App
       </div>
     </div>
