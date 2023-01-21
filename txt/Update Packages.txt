@@ -39,3 +39,6 @@
 
 - React dom
   npm install react react-dom
+
+- Get node modules
+  npm i
