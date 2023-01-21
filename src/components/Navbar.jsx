@@ -1,5 +1,4 @@
 import React from "react";
-import "../static/style.css";
 
 /* RAFC (enter) */
 export const Navbar = () => {

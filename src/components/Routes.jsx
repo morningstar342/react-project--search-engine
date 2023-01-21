@@ -1,5 +1,4 @@
-import React from 'react';
-import '../static/style.css';
+import React from "react";
 
 /* RAFC (enter) */
 export const Routes = () => {

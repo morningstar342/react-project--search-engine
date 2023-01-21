@@ -1,6 +1,4 @@
 import React from "react";
-import "../static/style.css";
-import "../static/components/Footer.css";
 
 /* RAFC (enter) */
 export const Footer = () => {
