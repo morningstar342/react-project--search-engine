@@ -1,13 +1,11 @@
 import React from 'react';
 import '../static/style.css';
-import '../static/components/Footer.css';
 
-const Footer = () => {
+/* RAFC (enter) */
+export const Routes = () => {
     return (
         <div>
-            
+            <h1>Routes</h1>
         </div>
     );
-}
-
-export default Footer;
+};
