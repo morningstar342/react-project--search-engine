@@ -1,0 +1,35 @@
+- Discover dependencies that are out of date
+    npm outdated
+
+- Perform safe dependency upgrades
+    npm update
+
+- Update XXX
+    npm update "react" "react-dom"
+
+- Upgrade to the latest major version of a package
+    npm install <packagename>@latest
+
+- Update XXX
+    npm install react@latest react-dom@latest
+
+- Upgrade all dependencies to their latest major versions
+    npx npm-check-updates -u && npm install
+
+- To address issues that do not require attention, run:
+  npm audit fix
+
+- To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+- packages are looking for funding
+  npm fund
+
+- craco
+  npm install --save craco
+  npm i -D @craco/craco
+
+- Tailwindcss
+  npm install tailwindcss
+  npm install -D tailwindcss
+  npx tailwindcss init
